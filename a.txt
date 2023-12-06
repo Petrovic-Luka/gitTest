@@ -1,2 +1,3 @@
 novi tekst
 Dodat novi red
+Izmene iz pomocne grane
