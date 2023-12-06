@@ -1,3 +1,4 @@
-novi tekst
+vi tekst
 Dodat novi red
 Izmene iz pomocne grane
+Izmene iz vs
